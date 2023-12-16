@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "694876792779",
+    "project_id": "flojics-task-b15ad",
+    "storage_bucket": "flojics-task-b15ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694876792779:android:f2dfb61d48d2fdafadb84e",
+        "android_client_info": {
+          "package_name": "com.example.flojics_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhWbc0VcABD5KEkp-Q1NnAAJ2XWzymQLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
